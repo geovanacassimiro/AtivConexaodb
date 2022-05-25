@@ -1,0 +1,23 @@
+{
+  "name": "atividadegeovana",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/geovanacassimiro/AtivConexaodb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/geovanacassimiro/AtivConexaodb/issues"
+  },
+  "dependencies": {
+    "firebase": "^9.8.1"
+  }
+}
